@@ -1,6 +1,8 @@
 # myLLM1 
 
-ist eine einfache Desktop-Anwendung zur Übersetzung kurzer Texte mit Hilfe der Google Gemini API. Die Übersetzung wird direkt im Programmfenster angezeigt, kann dort bearbeitet und anschließend als Excel-Datei gespeichert werden.
+Dieses Projekt entstand im Rahmen des Mastermoduls Fachübersetzen und Künstliche Intelligenz an der Johannes Gutenberg-Universität Mainz und wurde eigenständig überarbeitet und erweitert.
+
+myLLM1 ist eine einfache Desktop-Anwendung zur Übersetzung kurzer Texte mit Hilfe der Google Gemini API. Die Übersetzung wird direkt im Programmfenster angezeigt, kann dort bearbeitet und anschließend als Excel-Datei gespeichert werden.
 
 ## Funktionen
 - Texteingabe direkt im Programm (maximal 150 Wörter)
@@ -42,5 +44,6 @@ Starte das Programm im Terminal oder über PyCharm mit diesem Befehl:
 Nach der Übersetzung wird automatisch eine Datei mit dem Namen output.xlsx im Projektordner erstellt. Darin stehen:
 
 *In der Spalte "input": der eingegebene Text*
+
 
 *In der Spalte "output": die bearbeitete Übersetzung*
