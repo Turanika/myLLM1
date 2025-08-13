@@ -3,6 +3,9 @@
 Turan Hajiyeva
 myLLM1 –  Desktop-Anwendung für Textübersetzung mit Google Gemini
 
+Dieses Projekt entstand im Rahmen des Mastermoduls des MA Translation Fachübersetzen und Künstliche Intelligenz (SoSe2025) 
+an der Johannes Gutenberg-Universität Mainz und wurde eigenständig überarbeitet und erweitert.
+
 Diese Anwendung ermöglicht es, beliebigen Text (max. 150 Wörter) direkt im Fenster einzugeben
 und mit Hilfe des Google Gemini Modells in eine der Zielsprachen im Dropdown-Menü zu übersetzen. Die Übersetzung wird
 in einem Textfeld angezeigt und kann vor dem Speichern manuell bearbeitet werden.
@@ -114,3 +117,4 @@ Button(root, text="Speichern in Excel", command=speichern).grid(row=7, column=1,
 
 root.resizable(False, False)
 root.mainloop()
+
