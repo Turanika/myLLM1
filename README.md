@@ -1,5 +1,5 @@
 # LLM Translation Assistant
-
+![Application Screenshot](screenshot_myLLM1.png)
 
 myLLM1 ist eine einfache Desktop-Anwendung zur Übersetzung kurzer Texte mit Hilfe der Google Gemini API. Die Übersetzung wird direkt im Programmfenster angezeigt, kann dort bearbeitet und anschließend als Excel-Datei gespeichert werden.
 
